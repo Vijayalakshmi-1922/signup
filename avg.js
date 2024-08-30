@@ -1,0 +1,11 @@
+let name="Viji";
+let mark1=98;
+let mark2=97;
+let mark3=99;
+let mark4=96;
+let mark5=100;
+let Total=mark1+mark2+mark3+mark4+mark5;
+let avg=Total/5;
+console.log("Name:",name);
+console.log("Total:",Total);
+console.log("Average:",avg);

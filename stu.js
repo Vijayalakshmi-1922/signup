@@ -1,0 +1,18 @@
+let title="Student Detail";
+let name="Viji";
+let age=19;
+let dept="CSE";
+let year="Third Year";
+let sem="5th Sem";
+let bloodgroup="B+ ve";
+let phno=9876543210;
+let result="Excellent";
+console.log(title);
+console.log("Student Name:",name);
+console.log("Student Age:",age);
+console.log("Department:",dept);
+console.log("Year:",year);
+console.log("Semester:",sem);
+console.log("Blood Group:",bloodgroup);
+console.log("Phone Number:",phno);
+console.log("Result:",result);
